@@ -1,0 +1,15 @@
+C:\Users\Экономист\Desktop\Project\HWC#Seminar2\hwC#-2\bin\Debug\net6.0\hwC#-2.exe
+C:\Users\Экономист\Desktop\Project\HWC#Seminar2\hwC#-2\bin\Debug\net6.0\hwC#-2.deps.json
+C:\Users\Экономист\Desktop\Project\HWC#Seminar2\hwC#-2\bin\Debug\net6.0\hwC#-2.runtimeconfig.json
+C:\Users\Экономист\Desktop\Project\HWC#Seminar2\hwC#-2\bin\Debug\net6.0\hwC#-2.dll
+C:\Users\Экономист\Desktop\Project\HWC#Seminar2\hwC#-2\bin\Debug\net6.0\hwC#-2.pdb
+C:\Users\Экономист\Desktop\Project\HWC#Seminar2\hwC#-2\obj\Debug\net6.0\hwC#-2.csproj.AssemblyReference.cache
+C:\Users\Экономист\Desktop\Project\HWC#Seminar2\hwC#-2\obj\Debug\net6.0\hwC#-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Экономист\Desktop\Project\HWC#Seminar2\hwC#-2\obj\Debug\net6.0\hwC#-2.AssemblyInfoInputs.cache
+C:\Users\Экономист\Desktop\Project\HWC#Seminar2\hwC#-2\obj\Debug\net6.0\hwC#-2.AssemblyInfo.cs
+C:\Users\Экономист\Desktop\Project\HWC#Seminar2\hwC#-2\obj\Debug\net6.0\hwC#-2.csproj.CoreCompileInputs.cache
+C:\Users\Экономист\Desktop\Project\HWC#Seminar2\hwC#-2\obj\Debug\net6.0\hwC#-2.dll
+C:\Users\Экономист\Desktop\Project\HWC#Seminar2\hwC#-2\obj\Debug\net6.0\refint\hwC#-2.dll
+C:\Users\Экономист\Desktop\Project\HWC#Seminar2\hwC#-2\obj\Debug\net6.0\hwC#-2.pdb
+C:\Users\Экономист\Desktop\Project\HWC#Seminar2\hwC#-2\obj\Debug\net6.0\hwC#-2.genruntimeconfig.cache
+C:\Users\Экономист\Desktop\Project\HWC#Seminar2\hwC#-2\obj\Debug\net6.0\ref\hwC#-2.dll
